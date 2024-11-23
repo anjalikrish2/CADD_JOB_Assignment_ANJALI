@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time	A	B	Cin	S	Cout
+0	 12	 34	0	  x	x
+10000	 49	 53	0	  x	x
+20000	 99	  1	0	  x	x
+30000	 99	 99	1	  x	x
+$stop called at time : 40 ns : File "C:/Users/admin/OneDrive/Desktop/cadd-record/bcd_adder/bcd_adder.srcs/sim_1/new/bcd_adder_tb_.sv" Line 53
