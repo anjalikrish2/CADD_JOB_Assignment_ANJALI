@@ -1,7 +1,0 @@
-Running: xsim.dir/pipepre_tb_behav/xsimk.exe -simmode gui -wdb pipepre_tb_behav.wdb -simrunnum 0 -socket 55304
-Design successfully loaded
-Design Loading Memory Usage: 8504 KB (Peak: 8504 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 9068 KB (Peak: 9068 KB)
-Simulation CPU Usage: 0 ms
