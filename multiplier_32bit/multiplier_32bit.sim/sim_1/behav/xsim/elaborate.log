@@ -1,9 +1,0 @@
-Vivado Simulator v2024.1
-Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
-Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
-Running: C:/Users/admin/OneDrive/Desktop/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot multi_32_bit_tb_behav xil_defaultlib.multi_32_bit_tb xil_defaultlib.glbl -log elaborate.log 
-Using 2 slave threads.
-Starting static elaboration
-Pass Through NonSizing Optimizer
-ERROR: [VRFC 10-2989] 'Result' is not declared [C:/Users/admin/OneDrive/Desktop/cadd-record/multiplier_32bit/multiplier_32bit.srcs/sim_1/new/mult_32_bit_tb.sv:38]
-ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
